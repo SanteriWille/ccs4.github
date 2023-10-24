@@ -1,0 +1,22 @@
+*{
+    color: white;
+    
+}
+
+body{
+    min-height: 80vh;
+    background: url(img/sunrise.avif) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.div{
+    position: absolute;
+    bottom: 35px;
+    right: 35px;
+    background-color: black;
+    border-radius: 2px;
+    width: 190px;
+    padding: 10px;
+}
+
